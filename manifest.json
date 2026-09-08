@@ -1,0 +1,19 @@
+[
+  {
+    "guid": "c7d8e9f0-a1b2-4c3d-e5f6-a7b8c9d0e1f2",
+    "name": "SubSync",
+    "description": "Synchronize subtitles with video audio using ffsubsync",
+    "overview": "Sync Subtitles action on any video detail page, using ffsubsync as backend. Fork of camalolo/jellysubsync (GPL-2.0) with automatic python3 provisioning for Docker installs.",
+    "owner": "makeitmakesencethen",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.1.0.0",
+        "checksum": "8ed141f08a3102b8111c7d6c28688448",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://makeitmakesencethen.github.io/jellysubsync/Jellyfin.Plugin.SubSync_1.1.0.0.zip",
+        "changelog": "https://github.com/makeitmakesencethen/jellysubsync/releases/tag/v1.1.0"
+      }
+    ]
+  }
+]
