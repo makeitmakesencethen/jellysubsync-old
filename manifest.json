@@ -14,6 +14,7 @@
         "sourceUrl": "https://makeitmakesencethen.github.io/jellysubsync/Jellyfin.Plugin.SubSync_1.0.5.0.zip",
         "changelog": "https://github.com/makeitmakesencethen/jellysubsync/releases/tag/v1.0.5"
       }
-    ]
+    ],
+    "imageUrl": "https://makeitmakesencethen.github.io/jellysubsync/images/subsync-logo.jpg"
   }
 ]
