@@ -9,7 +9,7 @@
     "versions": [
       {
         "version": "1.0.0.0",
-        "checksum": "ee83e2d80909dc5e16c3b0850196fc15",
+        "checksum": "59f4cefcf7e2c65857a8490cabbb7d03",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://makeitmakesencethen.github.io/jellysubsync/Jellyfin.Plugin.SubSync_1.0.0.0.zip",
         "changelog": "https://github.com/makeitmakesencethen/jellysubsync/releases/tag/v1.0.0"
